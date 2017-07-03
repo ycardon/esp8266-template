@@ -1,5 +1,5 @@
 /*
-  D1 mini + matrix shield = clock
+  template for esp8266 sketch
 */
 #include <ESP8266WiFi.h>
 #include <RemoteDebug.h>
