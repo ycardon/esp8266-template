@@ -16,8 +16,6 @@
 // --- LIBRARIES INIT ---
 WiFiManager   wifiManager;
 RemoteDebug   debug;
-WiFiUDP       ntpUDP;
-NTPClient     timeClient(ntpUDP);
 
 // --- SETUP ---
 void setup() {
